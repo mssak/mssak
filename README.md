@@ -1,5 +1,5 @@
 <h2>Hi there 👋</h2>
-안녕하세요! 백엔드 개발을 넘어 요즘은 <b>게임개발</b>에 빠져 있습니다.
+안녕하세요! 백엔드 및 <b>게임개발</b>에 관심이 있습니다.
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> History📝 </h2>
 🏢 SW마에스트로 16기 2025.04 ~ now <br/>
