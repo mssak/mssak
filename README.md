@@ -1,4 +1,3 @@
-<h2>Hi 👋</h2>
 편리함과 게임을 좋아하는 개발자입니다.
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> History📝 </h2>
